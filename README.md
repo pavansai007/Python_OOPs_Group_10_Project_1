@@ -28,7 +28,16 @@
   * c. handle the try-exception to handle the errors
   * d. 'New" excel should be made available in the same directory
 
-##
+## packages Install 
+# package for testing
+> py -3 -m pip install pytest-xdist
+# package for workbook to access the excel sheet
+> pip install workbook
+# package for opening the Excel
+> pip3 install openpyxl
+# package for Pylint to check code quality
+> pip install pylint
+
 ## Contributors List 
 
 |PS No. |  Name   | 
@@ -42,4 +51,13 @@
 | 40019027 | Galla Rupesh |  
 | 40019047 | Dasari Harish |   
 | 40018828 | Devathi Mahesh |   
+
+## Folder Structure
+
+| Folder             | Description                                   |
+| ------------------ | --------------------------------------------- |
+| `1_Requirements`   | Documents detailing requirements and research |
+| `2_Design`         | Documents specifying design details           |
+| `3_Implementation` | All code and documentation                    |
+| `4_Test_plan`      | Documents with test plans and procedures      |
 
