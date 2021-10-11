@@ -38,6 +38,14 @@
 # package for Pylint to check code quality
 > pip install pylint
 
+## TO Run Project[commands]
+# for main code
+- python (main filename)
+# for test code
+- pytest (test filename)
+# for code quality
+- pulint (main filename)
+
 ## Contributors List 
 
 |PS No. |  Name   | 
