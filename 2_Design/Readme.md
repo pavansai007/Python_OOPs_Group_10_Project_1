@@ -1,3 +1,3 @@
 
 ## state Diagram
- ![state Diagram](https://github.com/GENESIS2021Q1/Applied_SDLC-Sept_Team_10/blob/main/2_Design/state%20diagram.jpg)
+ ![state Diagram](https://github.com/pavansai007/Python_OOPs_Group_10_Project_1/blob/main/2_Design/daigram.jpg)
